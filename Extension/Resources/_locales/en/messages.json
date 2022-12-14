@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Black Ranger",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Black Ranger summons the Mastodon.",
+        "description": "Description of what the extension does."
+    }
+}
